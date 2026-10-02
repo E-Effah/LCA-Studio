@@ -1,18 +1,32 @@
 cff-version: 1.2.0
-title: "LCA Studio: a teaching platform for environmental LCA, social LCA and life cycle costing"
+title: "LCA Studio: a teaching platform for environmental life cycle assessment, social life cycle assessment and life cycle costing"
+abstract: >-
+  A single-file browser tool for teaching life cycle sustainability assessment.
+  Learners build one product system and examine it from three sides: environmental
+  LCA after ISO 14040 and ISO 14044, social LCA after the UNEP (2020) guidelines
+  and ISO 14075 with PSILCA v4.0 reference scales, and life cycle costing with
+  explicit cost timing and discounting. Developed for Module 3 of the H2VE German
+  Centre of Vocational Excellence curriculum.
 message: "If you use this tool in teaching or research, please cite it."
 type: software
 authors:
   - family-names: Effah
     given-names: Emmanuel
-    affiliation: "Sustainable Technologies Laboratory, Hochschule Bochum University of Applied Sciences"
-repository-code: "https://github.com/YOUR-USERNAME/lca-studio"
-url: "https://YOUR-USERNAME.github.io/lca-studio/"
+    affiliation: "Sustainable Technologies Laboratory, Hochschule Bochum University of Applied Sciences, Germany"
+  - family-names: Devarajan
+    given-names: Surya Kumar
+    affiliation: "Sustainable Technologies Laboratory, Hochschule Bochum University of Applied Sciences, Germany"
+version: "1.0"
+date-released: 2026-10-02
 license: MIT
-year: 2026
+repository-code: "https://github.com/E-Effah/lca-studio"
+url: "https://e-effah.github.io/lca-studio/"
 keywords:
   - life cycle assessment
   - social life cycle assessment
   - life cycle costing
+  - life cycle sustainability assessment
   - hydrogen
-  - vocational education
+  - electrolyser
+  - vocational education and training
+  - open educational resource
