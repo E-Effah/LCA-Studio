@@ -99,5 +99,8 @@ Put these files in a repository, then Settings, Pages, Deploy from a branch, `ma
 
 Code: MIT, see `LICENSE`. Teaching text and task sheets: CC BY 4.0. Cite as:
 
-> Effah, E. (2026). *LCA Studio: a teaching platform for environmental LCA, social LCA and life cycle costing.*
-> Sustainable Technologies Laboratory, Hochschule Bochum. H2VE, Erasmus+ 101194163.
+> Effah, E., & Devarajan, S. K. (2026). *LCA Studio: a teaching platform for environmental life cycle
+> assessment, social life cycle assessment and life cycle costing*
+> Sustainable Technologies Laboratory, Hochschule Bochum University of Applied Sciences. Developed within
+> H2VE, Erasmus+ project 101194163. https://e-effah.github.io/lca-studio/
+
